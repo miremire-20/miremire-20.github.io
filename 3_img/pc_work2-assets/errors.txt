@@ -1,0 +1,1 @@
+[Mon Aug 03 2020 12:35:51 GMT+0900 (東京 (標準時))] Layer "background-color.jpg": Duplicate file name: background-color.jpg

@@ -1,0 +1,92 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin: 0 ;padding: 0 ;
+}
+
+body {
+	width: 100% ; margin: 0px auto; padding: 0 ; 
+	text-align: center ; 
+}
+
+/*--header--*/
+
+
+
+header {
+	background-color: #e7c9bf;
+}
+.header_item:first-child {
+	margin-right: auto;
+}
+
+
+
+.container {
+	display:  flex;
+	justify-content: flex-end;
+	
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+
+.header_item {
+	margin: 30px 50px 30px 40px;
+}
+
+/*--main--*/
+
+
+.work{
+	
+	height: 1200px ;
+	
+	background-color:#F4F4F4;
+	padding: 70px 0px 10px 0px;
+}
+
+
+.work_container1{
+	display: flex ;
+	flex-direction: column;
+	
+	height: 200px ;
+	margin: 80px 0px 0px 0px;	
+}
+
+.work_item1{
+	margin: 40px 10px 20px 10px ;
+}
+
+
+
+
+.work_container2{
+	display: flex ;
+	justify-content: center ;
+	
+	height: 450px ;
+	margin:130px 0px 0px 0px;	
+}
+
+.work_item2{
+	margin: 10px 10px 10px 10px ;
+}
+
+.work_buttom{
+	margin: 20px 0px 30px 0px ;
+	
+}
+
+
+
+/*--footer--*/
+
+footer{
+	padding: 25px 0px 0px 0px ;
+	height: 50px ;
+	
+	background-color: #e7c9bf;
+}

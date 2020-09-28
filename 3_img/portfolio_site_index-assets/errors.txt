@@ -1,0 +1,4 @@
+[2020-09-11 12:00:44] layer "長方形 5.jpg": Duplicate path: 長方形 5.jpg
+[2020-09-11 12:00:44] layer "長方形 5.jpg": Duplicate path: 長方形 5.jpg
+[2020-09-11 12:00:44] layer "background-color.jpg": Duplicate path: background-color.jpg
+[2020-09-11 12:00:44] layer "生 年 月 日/  2 0 0 0 年     5 月 3 日 メ   ー   ル / miyuu5533@gmail.com": Filename begins with whitespace
